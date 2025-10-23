@@ -64,7 +64,7 @@ const timelineEvents = [
                       <h3 class="text-xl font-semibold">Sprakiles</h3>
                       <p class="text-gray-500 mb-4">Founder & Designer</p>
                       <p class="text-gray-600 text-sm">
-                        Jane is the creative force behind Eco-Glow, personally designing every product with a focus on minimalist aesthetics and maximum functionality. Her background in environmental science fuels the brand's commitment to sustainability.
+                        Sprakiles is the creative force behind Eco-Glow, personally designing every product with a focus on minimalist aesthetics and maximum functionality. Her background in environmental science fuels the brand's commitment to sustainability.
                       </p>
                   </div>
               </AnimatedWindow>
