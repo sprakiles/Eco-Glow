@@ -43,4 +43,4 @@ Want to run it yourself? Here’s how:
 **Steps:**  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/eco-glow.git
+   git clone https://github.com/sprakiles/eco-glow.git
